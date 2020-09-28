@@ -20,4 +20,4 @@ Esse código foi desenvolvido com as seguintes tecnologias:
 
 ## ✍ Descrição
 
-Essa é uma pagina simples 
+Essa é uma pagina simples usando html css
