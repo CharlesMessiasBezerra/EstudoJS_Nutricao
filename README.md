@@ -12,8 +12,10 @@
 
 Esse código foi desenvolvido com as seguintes tecnologias:
 
--[JavaScipt]
--[HTML]
+-[JavaScipt] 
+
+-[HTML] 
+
 -[CSS]
 
 ## ✍ Descrição
